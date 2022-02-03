@@ -1,9 +1,9 @@
 # Cool_Projects
 List of Projects I thought of and planning on Implementing 
 
-1. Make Halo theme when startup windows 
+1. Make Halo theme when startup windows (Completed)
 
-2. insert into startup task (check)
+2. Create a way to detect phones location based off of Bluetooth enablement 
 
 3. Use Pyautogui to move mouse to keep laptop from locking out
 	- Make mouse click on screen or move (x, y) coordinate (Check)
