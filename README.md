@@ -24,3 +24,5 @@ List of Projects I thought of and planning on Implementing
 9. Set up Proxy for browsing sites / Check if proxy can be hosted on a public cloud
 
 10. Create an image of current OS and Linux OS
+
+11. Learn to create a Dockerfile for application and deploy to Cloud environment   
